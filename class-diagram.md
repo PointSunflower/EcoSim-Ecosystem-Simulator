@@ -1,4 +1,9 @@
 
+# EcoSim Class Diagram
+
+This diagram shows the classes and relationships used in the EcoSim ecosystem simulator.
+
+```mermaid
 classDiagram
     class Organism {
         +int x
@@ -41,3 +46,4 @@ classDiagram
     Organism <|-- Predator
     SimulationEnvironment o-- Organism
     DataTracker --> SimulationEnvironment : monitors
+```
