@@ -60,3 +60,7 @@ Group Members
 Project Status
 
 Currently under development.
+
+## Class Diagram
+
+View our [Class Diagram](class-diagram.md).
